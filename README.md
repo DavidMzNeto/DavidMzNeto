@@ -1,4 +1,4 @@
- 👋 Salve, meu nome é David Mizrahy Neto, tenho 19 anos, atualmente moro em Belo Horizonte, e começei a programar a mais ou menos 1 ano. Atualmente estou cursando Ciências da Computação na faculdade Newton Paiva e tenho focado mais no Front-End.
+ 👋 Olá, meu nome é David Mizrahy Neto, tenho 19 anos, atualmente moro em Belo Horizonte, e começei a programar a mais ou menos 1 ano. Atualmente estou cursando Ciências da Computação na faculdade Newton Paiva e tenho focado mais no Back-End.
 
 
 <!---
