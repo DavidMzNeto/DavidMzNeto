@@ -76,7 +76,7 @@
 <div>
 <details>
 <<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> David's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=davidmizrahyneto" alt="Data Card for Spotify">
+<img src="https://open.spotify.com/user/davidmizrahyneto?si=48814e1f8b8f454b/api/card?user_id=davidmizrahyneto" alt="Data Card for Spotify">
 
 </details>
 </div>
