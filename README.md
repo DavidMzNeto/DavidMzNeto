@@ -12,7 +12,7 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/joaopauloaramuni" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/DavidMzNeto" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://replit.com/@aramuni"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/replit3.svg?raw=true" width="50px" height="50px"/></a>
 </td>
@@ -20,9 +20,9 @@
 </td>
 <td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/joaopauloaramuni/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/davidmzneto/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/joaopauloaramuni/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/david-mizrahy-neto" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/lattes2.png?raw=true" width="50px" height="50px"/></a>
 </td>
