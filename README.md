@@ -73,19 +73,13 @@
 -----
 
 <div>
-<div>
-<details>
-<<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> David's Spotify Data</summary>
-<img src="https://open.spotify.com/user/davidmizrahyneto?si=48814e1f8b8f454b/api/card?user_id=davidmizrahyneto" alt="Data Card for Spotify">
 
-</details>
+<div>
+<a href="https://www.last.fm/pt/user/davidmizrahyneto" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=davidmizrahyneto&width=400"/></a>
 </div>
 <div>
-<a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=joaoaramuni&width=400"/></a>
-</div>
-<div>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default"/> &nbsp; &nbsp; 
-<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=22lih5eniohc7dawfxohlo7wy&count=10"/>
+<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=davidmizrahyneto&cover_image=true&theme=default"/> &nbsp; &nbsp; 
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=davidmizrahyneto&count={count}"/>
 </div>
 </div>
 
