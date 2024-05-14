@@ -44,13 +44,13 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 33 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>professor</code> nos cursos de Ciência da Computação, Sistemas de Informação e Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e também nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
-</div>
+<i><b>Olá</b> :wave:, meu nome é <code>David Mizrahy Neto</code>, tenho 19 anos, atualmente moro em Belo Horizonte, e começei a programar a mais ou menos 1 ano. Atualmente estou cursando <code>Ciências da Computação</code> no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e tenho focado mais no Back-End..</i><br />
+ </div>
 
 -----
-
+<i><b>Olá</b> :wave:, meu nome é <code>David Mizrahy Neto</code>, tenho 19 anos, atualmente moro em Belo Horizonte, e começei a programar a mais ou menos 1 ano. Atualmente estou cursando <code>Ciências da Computação</code> no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e tenho focado mais no Back-End..</i><br />
+ </div>
  
- 👋 Olá, meu nome é David Mizrahy Neto, tenho 19 anos, atualmente moro em Belo Horizonte, e começei a programar a mais ou menos 1 ano. Atualmente estou cursando Ciências da Computação na faculdade Newton Paiva e tenho focado mais no Back-End.
 
 
 <!---
