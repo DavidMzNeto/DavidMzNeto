@@ -73,8 +73,11 @@
 -----
 
 <div>
-
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=davidmizrahyneto">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=davidmizrahyneto" alt="Data Card for Spotify">
+</a>
 <div>
+ 
 <a href="https://www.last.fm/pt/user/davidmizrahyneto" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=davidmizrahyneto&width=400"/></a>
 </div>
 <div>
