@@ -48,8 +48,7 @@
  </div>
 
 -----
-<i><b>Olá</b> :wave:, meu nome é <code>David Mizrahy Neto</code>, tenho 19 anos, atualmente moro em Belo Horizonte, e começei a programar a mais ou menos 1 ano. Atualmente estou cursando <code>Ciências da Computação</code> no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e tenho focado mais no Back-End..</i><br />
- </div>
+
  
 
 
