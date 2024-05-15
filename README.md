@@ -49,7 +49,7 @@
 <div align="justify">
 <p> 
 - :man_student: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> no curso de Ciência da Computação.<br />
-- :necktie: &nbsp; Na <a href="https://in8.com.br/" target="_blank">IN8</a>, atuo como <code>Atendente de assistência ao cliente</code>, na Localiza&Co :airplane:<br />
+- :necktie: &nbsp; , atuo como <code>Atendente de assistência ao cliente</code>, na <a href="https://www.localiza.com/brasil/pt-br" target="_blank">Localiza&Co</a> :airplane:<br />
 - :soccer: &nbsp; Sou cruzeirense, torço para o Maior de Minas. :rooster:<br />
 - ⚽: &nbsp; Meus hobbies são <a href="https://www.ea.com/pt-br/games/ea-sports-fc">Fifa</a>e outros jogos no geral, jogar futebol, violão e guitarra.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:davidmizrahyneto@gmail.com" target="_blank">e-mail</a> pessoal.<br />
