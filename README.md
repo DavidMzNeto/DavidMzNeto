@@ -32,11 +32,15 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, meu nome é <code>David Mizrahy Neto</code>, tenho 19 anos, atualmente moro em Belo Horizonte, e começei a programar a mais ou menos 1 ano. Atualmente estou cursando <code>Ciências da Computação</code> no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e tenho focado mais no Back-End..</i><br />
+<i><b>Olá</b> :wave:, meu nome é <code>David Mizrahy Neto</code>, tenho 19 anos, atualmente moro em Belo Horizonte, e começei a programar a mais ou menos 1 ano.</i><br />
  </div>
 
 -----
-
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
+<div align="justify">
+No momento estou cursando o bacharelado em Ciências da computação nono <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>, e tenho feito cursos em plataformas online como a <a href="https://web.dio.me/">DIO</a> e também na Proz, no curso Talento Cloud. Comecei minha carreira profissional no fim do terceiro ano como vendedor na <a href="https://loja.imaginarium.com.br/">Imaginarium</a> e atualmente estou na <a href="https://www.localiza.com/brasil/pt-br"target="_blank">Localiza&Co</a>.Meu interesse por tecnologia começou desde meu ensino médio, porém, a virada de chave foi em uma conversa com meu tio , que atua na área, onde ele me demonstrou como era encantadora a área da programação e como era divertido a lógica por trás da programação. No momento estou em busca de uma oportunidade para começar a minha jornada na área de programação.
+ 
+</div>
  ---
 
 <div>
