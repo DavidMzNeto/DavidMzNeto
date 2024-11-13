@@ -1,7 +1,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src=https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/header.png?raw=true" width="1080px" height="200px"/>
+<img align="center" alt="Header" src="https://github.com/DavidMzNeto/DavidMzNeto/blob/main/IMG/github-header-image.png" width="1080px" height="200px"/>
 </div>
 
 -----
@@ -12,7 +12,7 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/DavidMzNeto" target="_blank"><img src=https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/DavidMzNeto" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="mailto:davidmizrahyneto@gmail.com" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
