@@ -32,7 +32,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, meu nome é <code>David Mizrahy Neto</code>, tenho 19 anos, atualmente moro em Belo Horizonte, e começei a programar a mais ou menos 1 ano.</i><br />
+<i><b>Olá</b> :wave:, meu nome é <code>David Mizrahy Neto</code>, tenho 20 anos, atualmente moro em Belo Horizonte, e começei a programar a mais ou menos 1 ano.</i><br />
  </div>
 
 -----
